@@ -858,7 +858,7 @@ export CSV2RDF4LOD_PUBLISH_VIRTUOSO_SCRIPT_PATH=""
 # (done in pvload.sh)
 #
 export CSV2RDF4LOD_PUBLISH_VIRTUOSO_SPARQL_ENDPOINT="http://logd.tw.rpi.edu/sparql"
-export CSV2RDF4LOD_PUBLISH_VIRTUOSO_SPARQL_ENDPOINT=""
+export CSV2RDF4LOD_PUBLISH_VIRTUOSO_SPARQL_ENDPOINT="http://ec2-54-193-113-202.us-west-1.compute.amazonaws.com/sparql"
 
 
 #
@@ -873,7 +873,7 @@ export CSV2RDF4LOD_PUBLISH_VIRTUOSO_SPARQL_ENDPOINT=""
 # (done in populate-to-endpoint.sh)
 #
 export CSV2RDF4LOD_PUBLISH_SPARQL_ENDPOINT="http://logd.tw.rpi.edu/sparql" 
-export CSV2RDF4LOD_PUBLISH_SPARQL_ENDPOINT="" 
+export CSV2RDF4LOD_PUBLISH_SPARQL_ENDPOINT="http://ec2-54-193-113-202.us-west-1.compute.amazonaws.com/sparql"
 
 #
 # Customize: Load the provenance of SPARQL endpoint named graph 

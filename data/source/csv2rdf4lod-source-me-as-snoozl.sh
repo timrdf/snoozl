@@ -13,5 +13,5 @@ export PATH=$PATH`/home/snoozl/opt/prizms/bin/install/paths.sh`
 export CLASSPATH=$CLASSPATH`/home/snoozl/opt/prizms/bin/install/classpaths.sh`
 export CSV2RDF4LOD_HOME="/home/snoozl/opt/prizms/repos/csv2rdf4lod-automation"
 export DATAFAQS_HOME="/home/snoozl/opt/prizms/repos/DataFAQs"
-export CSV2RDF4LOD_PUBLISH_VIRTUOSO=''
-export CSV2RDF4LOD_PUBLISH_SUBSET_SAMPLES=''
+export CSV2RDF4LOD_PUBLISH_VIRTUOSO="true"
+export CSV2RDF4LOD_PUBLISH_SUBSET_SAMPLES="true"
